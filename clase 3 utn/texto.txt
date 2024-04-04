@@ -1,0 +1,4 @@
+para clonar busco en git hub copio en enlave y pongo git clone y pego el enlace que esta en la opcion code del repositorio el cual quiero clonar
+21:18 revisar la sincronizacion
+si aparece la m significa que esta modificado y necesita actualizarse
+al cambiar de pc antes de escribir y cambiar codigo sincronizar en el simbolo de sourse
